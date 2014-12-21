@@ -1,7 +1,14 @@
 # AngularJS Style Guide
 
 *Opinionated AngularJS style guide for teams by [@john_papa](//twitter.com/john_papa)*
+*TypeScript-specific guidance by Jess Chadwick*
 
+## TypeScript Fork
+Before going any further, please note that the sole intention of this repository is to enhance [John Papa's AngularJS style guide](/johnpapa/angularjs-styleguide) with code snippets and additional guidance/comments for TypeScript developers.  As the goal is not to change or conflict with John's original guidance, this fork changes as little as possible from the original, including John's introduction, links to his Pluralsight videos, and shout-outs below.  As such, note that any sections written in the first person refer to John Papa; likewise, don't blame John for any TypeScript-specific content.  Also, despite the fact that this repository carries over the translations from the original, don't expect any of the translations to be up-to-date with the TypeScript guidance in this repository.
+
+If you find any guidance in this repository conflicts with the original, you can safely assume that the content in this guide is a mistake or simply not up-to-date with the original and that the original repository wins; if/when a conflict occurs, please submit an issue (and/or a pull request!) so that it can get fixed.
+
+## About the Style Guide
 If you are looking for an opinionated style guide for syntax, conventions, and structuring AngularJS applications, then step right in. These styles are based on my development experience with [AngularJS](//angularjs.org), presentations, [Pluralsight training courses](http://pluralsight.com/training/Authors/Details/john-papa) and working in teams. 
 
 >If you like this guide, check out my [AngularJS Patterns: Clean Code](http://jpapa.me/ngclean) course at Pluralsight.
@@ -18,6 +25,7 @@ While this guide explains the *what*, *why* and *how*, I find it helpful to see 
 
 ##Translations 
 [Translations of this Angular style guide](https://github.com/johnpapa/angularjs-styleguide/tree/master/i18n) are maintained by the community and can be found here.
+
 
 ## Table of Contents
 
