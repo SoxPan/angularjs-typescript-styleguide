@@ -1,6 +1,7 @@
 # AngularJS Style Guide
 
 *Opinionated AngularJS style guide for teams by [@john_papa](//twitter.com/john_papa)*
+
 *TypeScript-specific guidance by Jess Chadwick*
 
 ## TypeScript Fork
